@@ -1,0 +1,49 @@
+{
+  "type": "object",
+  "required": [
+    "id",
+    "user_message",
+    "emotion",
+    "intent",
+    "mother_goal",
+    "tone",
+    "language",
+    "response",
+    "source_type"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "user_message": {
+      "type": "string"
+    },
+    "emotion": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "secondary_emotion": {
+      "type": "string"
+    },
+    "intent": {
+      "type": "string"
+    },
+    "mother_goal": {
+      "type": "string"
+    },
+    "tone": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "response": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string"
+    }
+  }
+}

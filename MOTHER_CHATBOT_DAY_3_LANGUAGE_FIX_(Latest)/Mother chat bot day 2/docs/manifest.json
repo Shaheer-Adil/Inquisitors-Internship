@@ -1,0 +1,21 @@
+{
+  "package_name": "Updated Zip File for Mother Chatbot",
+  "roadmap": "Day 1",
+  "source_count": 15,
+  "knowledge_units": 20,
+  "conversation_examples": 120,
+  "emotion_count": 20,
+  "languages": [
+    "English",
+    "Urdu",
+    "Roman Urdu",
+    "English-Mixed",
+    "Roman Urdu-Mixed",
+    "Urdu-Mixed"
+  ],
+  "notes": [
+    "External source material is not copied wholesale.",
+    "Conversation examples are team-authored.",
+    "Day-2 RAG can ingest both JSONL files while preserving metadata."
+  ]
+}

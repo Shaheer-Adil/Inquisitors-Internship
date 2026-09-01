@@ -1,0 +1,15 @@
+{
+  "corpus_version": "mother_chatbot_day2_v1",
+  "chunk_count": 140,
+  "knowledge_chunks": 20,
+  "conversation_chunks": 120,
+  "metadata_fields": [
+    "source_id",
+    "content_type",
+    "topic",
+    "emotion",
+    "intent",
+    "language",
+    "secondary_emotion"
+  ]
+}

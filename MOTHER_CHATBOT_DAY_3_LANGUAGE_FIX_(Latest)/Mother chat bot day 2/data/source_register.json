@@ -1,0 +1,241 @@
+[
+  {
+    "source_id": "UNICEF_PARENTING",
+    "organization": "UNICEF Parenting",
+    "title": "UNICEF Parenting",
+    "url": "https://www.unicef.org/parenting/",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "parenting",
+      "child development",
+      "well-being"
+    ],
+    "note": "Official UNICEF Parenting hub; use relevant sections, not wholesale copying."
+  },
+  {
+    "source_id": "UNICEF_POSITIVE",
+    "organization": "UNICEF Asia Pacific",
+    "title": "Positive parenting vs. Strict parenting",
+    "url": "https://www.unicef.org/asia-pacific/place-for-parents/positive-parenting",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "positive parenting",
+      "affection",
+      "listening",
+      "discipline",
+      "boundaries"
+    ],
+    "note": "Official UNICEF guidance; selected as a core behavioral reference."
+  },
+  {
+    "source_id": "UNICEF_POSITIVE_6_10",
+    "organization": "UNICEF Asia Pacific",
+    "title": "Positive parenting tips for children aged 6-10",
+    "url": "https://www.unicef.org/asia-pacific/place-for-parents/positive-parenting-tips-6-10",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "encouragement",
+      "feelings",
+      "mistakes",
+      "comparison",
+      "guidance"
+    ],
+    "note": "Official UNICEF guidance; collect relevant sections only."
+  },
+  {
+    "source_id": "UNICEF_PK_PARENTING",
+    "organization": "UNICEF Pakistan",
+    "title": "Training Manual on Early Childhood Development and Parenting",
+    "url": "https://www.unicef.org/pakistan/documents/training-manual-early-childhood-development-and-parenting",
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "topics": [
+      "nurturing care",
+      "positive parenting",
+      "family relationships",
+      "counselling",
+      "positive discipline"
+    ],
+    "note": "Official UNICEF Pakistan source."
+  },
+  {
+    "source_id": "UNICEF_PK_HANDBOOK",
+    "organization": "UNICEF Pakistan",
+    "title": "Participant Handbook on Early Childhood Development and Parenting Education",
+    "url": "https://www.unicef.org/pakistan/documents/participant-handbook-early-childhood-development-and-parenting-education",
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "topics": [
+      "responsive caregiving",
+      "communication",
+      "counselling",
+      "parenting education"
+    ],
+    "note": "Official UNICEF Pakistan source."
+  },
+  {
+    "source_id": "UNICEF_PK_ECD",
+    "organization": "UNICEF Pakistan",
+    "title": "Early Childhood Development",
+    "url": "https://www.unicef.org/pakistan/early-child-development-ecd-0",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "ECD",
+      "nurturing care",
+      "family care"
+    ],
+    "note": "Official UNICEF Pakistan overview."
+  },
+  {
+    "source_id": "UNICEF_COMM",
+    "organization": "UNICEF",
+    "title": "How to communicate effectively with your young child",
+    "url": "https://www.unicef.org/lac/en/parenting-lac/nurturing-care/how-communicate-effectively-young-child",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "communication",
+      "tone",
+      "listening",
+      "non-verbal communication"
+    ],
+    "note": "Official UNICEF parenting guidance."
+  },
+  {
+    "source_id": "UNICEF_MH_WELLBEING",
+    "organization": "UNICEF Parenting",
+    "title": "Mental health and well-being",
+    "url": "https://www.unicef.org/parenting/mental-health-and-well-being",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "mental well-being",
+      "emotions",
+      "family support"
+    ],
+    "note": "Official UNICEF resource; supports emotional-support principles."
+  },
+  {
+    "source_id": "UNICEF_TALK_MH",
+    "organization": "UNICEF Parenting",
+    "title": "How to talk to your kids about mental health",
+    "url": "https://www.unicef.org/parenting/mental-health/how-to-talk-to-kids-mental-health",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "listening",
+      "mental health conversations",
+      "validation",
+      "support"
+    ],
+    "note": "Official UNICEF resource; supports listening-first conversational behavior."
+  },
+  {
+    "source_id": "UNICEF_ANXIETY",
+    "organization": "UNICEF Parenting",
+    "title": "What is anxiety?",
+    "url": "https://www.unicef.org/parenting/mental-health/what-is-anxiety",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "anxiety",
+      "fear",
+      "stress",
+      "professional support"
+    ],
+    "note": "Official UNICEF resource; use cautiously and do not diagnose."
+  },
+  {
+    "source_id": "UNICEF_DEPRESSION",
+    "organization": "UNICEF Parenting",
+    "title": "What is depression?",
+    "url": "https://www.unicef.org/parenting/mental-health/what-is-depression",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "low mood",
+      "depression",
+      "self-harm",
+      "professional help"
+    ],
+    "note": "Official UNICEF resource; high-stakes reference, never use for diagnosis."
+  },
+  {
+    "source_id": "UNICEF_SELFCARE",
+    "organization": "UNICEF Parenting",
+    "title": "Self-care for parents",
+    "url": "https://www.unicef.org/parenting/mental-health/parent-self-care-tips",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "caregiver well-being",
+      "stress",
+      "self-care"
+    ],
+    "note": "Official UNICEF resource."
+  },
+  {
+    "source_id": "UNICEF_FAMILY_MH",
+    "organization": "UNICEF Parenting",
+    "title": "How to protect your family's mental health",
+    "url": "https://www.unicef.org/parenting/mental-health/how-to-protect-family-mental-health",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "family mental health",
+      "warm relationships",
+      "emotional support"
+    ],
+    "note": "Official UNICEF resource."
+  },
+  {
+    "source_id": "HARVARD_SAR",
+    "organization": "Harvard Center on the Developing Child",
+    "title": "Serve and Return",
+    "url": "https://developingchild.harvard.edu/topic/serve-and-return/",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "responsive interaction",
+      "social-emotional development",
+      "connection"
+    ],
+    "note": "Official Harvard resource."
+  },
+  {
+    "source_id": "HARVARD_5_STEPS",
+    "organization": "Harvard Center on the Developing Child",
+    "title": "5 Steps for Brain-Building Serve and Return",
+    "url": "https://developingchild.harvard.edu/wp-content/uploads/2024/10/HCDC_ServeReturn_for_Parents_Caregivers_2019.pdf",
+    "languages": [
+      "English"
+    ],
+    "topics": [
+      "notice",
+      "respond",
+      "name feelings",
+      "turn-taking"
+    ],
+    "note": "Official Harvard PDF."
+  }
+]

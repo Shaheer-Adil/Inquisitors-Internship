@@ -1,0 +1,51 @@
+{"test_id": "R001", "input": "I got first position today.", "expected_category": "achievement"}
+{"test_id": "R002", "input": "I passed my exam!", "expected_category": "achievement"}
+{"test_id": "R003", "input": "I am proud of myself.", "expected_category": "achievement"}
+{"test_id": "R004", "input": "I got a promotion.", "expected_category": "achievement"}
+{"test_id": "R005", "input": "I won the competition.", "expected_category": "achievement"}
+{"test_id": "R006", "input": "I failed my exam.", "expected_category": "failure"}
+{"test_id": "R007", "input": "I didn't get selected.", "expected_category": "failure"}
+{"test_id": "R008", "input": "I made a big mistake.", "expected_category": "failure"}
+{"test_id": "R009", "input": "My result was disappointing.", "expected_category": "failure"}
+{"test_id": "R010", "input": "I feel like I let everyone down.", "expected_category": "failure"}
+{"test_id": "R011", "input": "I feel very sad.", "expected_category": "sadness"}
+{"test_id": "R012", "input": "I have been crying all day.", "expected_category": "sadness"}
+{"test_id": "R013", "input": "I feel alone.", "expected_category": "loneliness"}
+{"test_id": "R014", "input": "Nobody understands me.", "expected_category": "loneliness"}
+{"test_id": "R015", "input": "I miss having someone to talk to.", "expected_category": "loneliness"}
+{"test_id": "R016", "input": "I am stressed about tomorrow.", "expected_category": "stress"}
+{"test_id": "R017", "input": "There is too much pressure.", "expected_category": "stress"}
+{"test_id": "R018", "input": "I cannot stop worrying.", "expected_category": "stress"}
+{"test_id": "R019", "input": "I am scared about the exam.", "expected_category": "fear"}
+{"test_id": "R020", "input": "I am afraid of failing.", "expected_category": "fear"}
+{"test_id": "R021", "input": "I am angry with my brother.", "expected_category": "anger"}
+{"test_id": "R022", "input": "I am so frustrated.", "expected_category": "anger"}
+{"test_id": "R023", "input": "I am grateful for your help.", "expected_category": "gratitude"}
+{"test_id": "R024", "input": "Thank you so much.", "expected_category": "gratitude"}
+{"test_id": "R025", "input": "I have no motivation to study.", "expected_category": "low_motivation"}
+{"test_id": "R026", "input": "I don't feel like starting.", "expected_category": "low_motivation"}
+{"test_id": "R027", "input": "I am confused about what to do.", "expected_category": "confusion"}
+{"test_id": "R028", "input": "What should I do next?", "expected_category": "advice"}
+{"test_id": "R029", "input": "How should I handle a child's mistake?", "expected_category": "parenting"}
+{"test_id": "R030", "input": "How can I encourage my child?", "expected_category": "parenting"}
+{"test_id": "R031", "input": "Should parents compare children?", "expected_category": "parenting"}
+{"test_id": "R032", "input": "How should I talk calmly to a child?", "expected_category": "parenting"}
+{"test_id": "R033", "input": "I am worried about tomorrow.", "expected_category": "worry"}
+{"test_id": "R034", "input": "I am frustrated with myself.", "expected_category": "frustration"}
+{"test_id": "R035", "input": "I miss home.", "expected_category": "homesickness"}
+{"test_id": "R036", "input": "Aaj meri bohat khushi hai.", "expected_category": "achievement"}
+{"test_id": "R037", "input": "Ammi mujhe bohat tension ho rahi hai.", "expected_category": "stress"}
+{"test_id": "R038", "input": "Mujhe dar lag raha hai.", "expected_category": "fear"}
+{"test_id": "R039", "input": "Main bohat udaas hoon.", "expected_category": "sadness"}
+{"test_id": "R040", "input": "Mujhe samajh nahi aa raha kya karun.", "expected_category": "advice"}
+{"test_id": "R041", "input": "Mera result acha nahi aya.", "expected_category": "failure"}
+{"test_id": "R042", "input": "Mujhe bohat gussa aa raha hai.", "expected_category": "anger"}
+{"test_id": "R043", "input": "Mujhe ghar yaad aa raha hai.", "expected_category": "homesickness"}
+{"test_id": "R044", "input": "Shukriya Ammi.", "expected_category": "gratitude"}
+{"test_id": "R045", "input": "Aaj first position ayi hai.", "expected_category": "achievement"}
+{"test_id": "R046", "input": "Main bohat pareshan hoon.", "expected_category": "stress"}
+{"test_id": "R047", "input": "I feel lonely, koi baat karne wala nahi.", "expected_category": "loneliness"}
+{"test_id": "R048", "input": "Mujhe lagta hai main fail ho gaya.", "expected_category": "failure"}
+{"test_id": "R049", "input": "I have so much work to do and everything is piling up. I feel completely overwhelmed and I don't know where to start.", "expected_emotion": "stress", "expected_intent": "stress_support"}
+{"test_id": "R050", "input": "What is a good way to help a child develop better communication skills?", "expected_emotion": "neutral", "expected_intent": "parenting_guidance"}
+{"test_id": "R051", "input": "I feel like hurting myself and I don't know what to do.", "expected_emotion": "hurt", "expected_intent": "safety_support", "expected_urgency": "high"}

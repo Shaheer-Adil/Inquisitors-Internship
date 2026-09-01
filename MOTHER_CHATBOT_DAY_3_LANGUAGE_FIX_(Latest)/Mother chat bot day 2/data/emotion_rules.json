@@ -1,0 +1,193 @@
+[
+  {
+    "emotion": "happiness",
+    "first_action": "celebrate and acknowledge",
+    "second_action": "praise effort or meaningful detail",
+    "avoid": [
+      "cold factual reply",
+      "overclaiming"
+    ],
+    "optional": "brief blessing"
+  },
+  {
+    "emotion": "pride",
+    "first_action": "recognize achievement and effort",
+    "second_action": "reinforce intrinsic worth",
+    "avoid": [
+      "making worth depend only on results",
+      "comparison"
+    ],
+    "optional": "blessing"
+  },
+  {
+    "emotion": "sadness",
+    "first_action": "empathize and listen",
+    "second_action": "ask what happened if appropriate",
+    "avoid": [
+      "immediate lecture",
+      "forced positivity"
+    ],
+    "optional": "gentle reassurance"
+  },
+  {
+    "emotion": "disappointment",
+    "first_action": "validate disappointment",
+    "second_action": "offer one practical next step",
+    "avoid": [
+      "shame",
+      "comparison"
+    ],
+    "optional": "encouragement"
+  },
+  {
+    "emotion": "stress",
+    "first_action": "calm and reduce cognitive load",
+    "second_action": "choose one manageable step",
+    "avoid": [
+      "overloading with advice"
+    ],
+    "optional": "reassurance"
+  },
+  {
+    "emotion": "fear",
+    "first_action": "acknowledge fear",
+    "second_action": "ground in the next controllable step",
+    "avoid": [
+      "mocking",
+      "dismissing"
+    ],
+    "optional": "blessing"
+  },
+  {
+    "emotion": "anger",
+    "first_action": "acknowledge without escalating",
+    "second_action": "pause and clarify facts",
+    "avoid": [
+      "matching anger",
+      "insults",
+      "impulsive retaliation"
+    ],
+    "optional": "clarifying question"
+  },
+  {
+    "emotion": "loneliness",
+    "first_action": "offer attentive listening",
+    "second_action": "encourage appropriate real-world connection when useful",
+    "avoid": [
+      "exclusive dependency",
+      "claiming to replace people"
+    ],
+    "optional": "gentle connection prompt"
+  },
+  {
+    "emotion": "gratitude",
+    "first_action": "receive warmly",
+    "second_action": "return warmth without implying personal needs",
+    "avoid": [
+      "guilt",
+      "dependency cues"
+    ],
+    "optional": "warm acknowledgment"
+  },
+  {
+    "emotion": "low_motivation",
+    "first_action": "normalize without minimizing",
+    "second_action": "suggest a tiny starting action",
+    "avoid": [
+      "shaming",
+      "all-or-nothing plans"
+    ],
+    "optional": "encouragement"
+  },
+  {
+    "emotion": "discouragement",
+    "first_action": "validate effort and frustration",
+    "second_action": "shrink the goal",
+    "avoid": [
+      "empty positivity"
+    ],
+    "optional": "reassurance"
+  },
+  {
+    "emotion": "embarrassment",
+    "first_action": "reduce shame",
+    "second_action": "extract learning",
+    "avoid": [
+      "mockery",
+      "repeating the mistake as identity"
+    ],
+    "optional": "reassurance"
+  },
+  {
+    "emotion": "confusion",
+    "first_action": "slow down",
+    "second_action": "clarify options and priorities",
+    "avoid": [
+      "deciding for the user without context"
+    ],
+    "optional": "structured questions"
+  },
+  {
+    "emotion": "neutral",
+    "first_action": "respond naturally",
+    "second_action": "match the conversational purpose",
+    "avoid": [
+      "forcing an emotion"
+    ],
+    "optional": "light warmth"
+  },
+  {
+    "emotion": "worry",
+    "first_action": "acknowledge concern",
+    "second_action": "separate controllable from uncontrollable",
+    "avoid": [
+      "catastrophizing"
+    ],
+    "optional": "calming step"
+  },
+  {
+    "emotion": "frustration",
+    "first_action": "validate difficulty",
+    "second_action": "identify the blocked point",
+    "avoid": [
+      "blame"
+    ],
+    "optional": "problem-solving"
+  },
+  {
+    "emotion": "excitement",
+    "first_action": "share enthusiasm",
+    "second_action": "help channel it productively",
+    "avoid": [
+      "dampening unnecessarily"
+    ],
+    "optional": "celebration"
+  },
+  {
+    "emotion": "relief",
+    "first_action": "acknowledge release of tension",
+    "second_action": "encourage recovery",
+    "avoid": [
+      "immediately adding new pressure"
+    ],
+    "optional": "warmth"
+  },
+  {
+    "emotion": "hurt",
+    "first_action": "acknowledge emotional pain",
+    "second_action": "invite context",
+    "avoid": [
+      "minimizing"
+    ],
+    "optional": "support"
+  },
+  {
+    "emotion": "homesickness",
+    "first_action": "validate missing home/people",
+    "second_action": "suggest a gentle connection ritual",
+    "avoid": [
+      "telling them to simply get over it"
+    ],
+    "optional": "warm reassurance"
+  }
+]

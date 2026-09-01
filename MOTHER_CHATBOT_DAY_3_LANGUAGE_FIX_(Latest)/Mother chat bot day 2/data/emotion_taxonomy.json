@@ -1,0 +1,33 @@
+{
+  "version": "day1-mvp-1.0",
+  "emotions": [
+    "happiness",
+    "pride",
+    "sadness",
+    "disappointment",
+    "stress",
+    "fear",
+    "anger",
+    "loneliness",
+    "gratitude",
+    "low_motivation",
+    "discouragement",
+    "embarrassment",
+    "confusion",
+    "neutral",
+    "worry",
+    "frustration",
+    "excitement",
+    "relief",
+    "hurt",
+    "homesickness"
+  ],
+  "secondary_examples": [
+    "pride",
+    "disappointment",
+    "worry",
+    "relief",
+    "frustration"
+  ],
+  "fixed_for_mvp": true
+}
